@@ -1,3 +1,3 @@
 ## Ferramenta Utilizada
 
-- Ferramenta de recebimento e envio da mensagem (formspree.io)
+- Ferramenta de recebimento dos dados e envio da mensagem (formspree.io)
