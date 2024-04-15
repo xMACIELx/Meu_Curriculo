@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+}
+
+h1, h2, h3 {
+    text-transform: uppercase;
+}
+
+#header {
+    background-color: rgb(156, 86, 222);
+    margin: 50px 0px 50px 0px;
+    font-family: "Hubballi", sans-serif;
+}
+
+#nameAndTitle {
+    background-color: white;
+    width: 400px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+#contact {
+    list-style-type: none;
+}
+
+#icones {
+    width: 30px;
+    color: rgb(156, 86, 222);
+}
