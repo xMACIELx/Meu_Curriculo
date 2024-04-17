@@ -27,3 +27,7 @@ h1, h2, h3 {
     width: 30px;
     color: rgb(156, 86, 222);
 }
+
+.cards {
+    margin: 20px 0px 0px 0px;
+}
