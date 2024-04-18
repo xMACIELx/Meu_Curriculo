@@ -59,3 +59,13 @@ h1, h2, h3 {
     border-radius: 15px;
     padding: 20px;
 }
+
+#contate-me {
+    padding: 0px;
+    font-family: 'Montserrat';
+    text-transform: uppercase;
+    border-radius: 15px;
+    height: 50px;
+    background-color: rgb(156, 86, 222);
+    cursor: pointer;
+}
