@@ -21,6 +21,7 @@ h1, h2, h3 {
 
 #contact {
     list-style-type: none;
+    padding-left: 0px;
 }
 
 #icones {
@@ -28,6 +29,33 @@ h1, h2, h3 {
     color: rgb(156, 86, 222);
 }
 
+#container {
+    display: grid;
+    grid-template-columns: 30% auto;
+    grid-column-gap: 20px;
+}
+
+#sidebar, #content {
+    display: flex;
+    flex-direction: column;
+    row-gap: 25px;
+}
+
+#sidebar{
+    margin-left: 20px;
+}
+
+#content {
+    margin-right: 20px;
+}
+
+.cards h3 {
+    font-family: "Hubballi", sans-serif;
+}
+
 .cards {
-    margin: 20px 0px 0px 0px;
+    font-family: 'Montserrat';
+    border: 1px solid gray;
+    border-radius: 15px;
+    padding: 20px;
 }
