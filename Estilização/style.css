@@ -68,4 +68,5 @@ h1, h2, h3 {
     height: 50px;
     background-color: rgb(156, 86, 222);
     cursor: pointer;
+    margin-bottom: 35px;
 }
