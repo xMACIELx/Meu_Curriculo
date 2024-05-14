@@ -1,6 +1,3 @@
-## Link do Site
-<a target="_blank" href="https://pedro-henrique-maciel.netlify.app/">Ir para o site</a>
-
 ## Ferramenta Utilizada
 
 <ul>
